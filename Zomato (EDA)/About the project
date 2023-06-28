@@ -1,0 +1,26 @@
+Project Objective :
+ > The project involved analyzing customer behavior on the Zomato platform, which is a food delivery app.
+ > The data used for the analysis was about Zomato sales based on membership, 
+   which contained information about sales, customers, products, and membership.
+ 
+Provided Task :
+ > The task was to use SQL queries to answer several questions about customer behavior on Zomato. 
+ > The sample questions included: 
+   -- What is the total amount each customer spent on Zomato?
+   -- How many days has each customer visited Zomato? 
+   -- What was the first product purchased by each customer?
+   -- What is the most purchased item on the menu
+   -- Which item was most popular for each customer?
+   -- Which item was purchased first by a customer after they became a member? etc
+
+Project Approach :
+ > Cleaned the data to ensure that it was in a usable format (datatypes). 
+ > Checked any missing values and dealt with any data quality issues. 
+ > Then used SQL queries to extract the data from the Zomato dataset and performed aggregate calculations on
+   the data to answer the questions.
+
+Analysis Report :
+ > The result of this analysis showed that the most popular products on Zomato were product 1 and product 3. 
+ > Based on the customer membership, users 1 and 2 earned the most Zomato points, and in the case of products,
+   the highest points earned was for product 3 which is 3045 points. 
+ > These insights helped in understanding customer behavior on Zomato App and will be useful for making informed decisions.
